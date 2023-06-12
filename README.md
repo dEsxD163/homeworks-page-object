@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kbuh68pc3k3x1bah?svg=true)](https://ci.appveyor.com/project/dEsxD163/homeworks-page-object)
